@@ -1,5 +1,7 @@
-# [Knockdown](https://github.com/aziz/knockdown)
+# [Knockdown](https://github.com/metalelf0/knockdown)
 Github flavored Markdown for SublimeText and a custom color-scheme for writing markdown.
+
+* Original package: [Knockdown](https://github.com/metalelf0/knockdown)
 
 ### My fork:
 
