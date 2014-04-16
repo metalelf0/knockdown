@@ -18,8 +18,10 @@
     // specific settings file, for example, "Preferences (Linux).sublime-settings".
     // Because of this, setting them here will have no effect: you must set them
     // in your User File Preferences.
-	"font_face": "Consolas",
-	"font_size": 12,
+    // @metalelf0: I don't have the consolas font and this setting messes my config.
+    // commenting this.
+	// "font_face": "Consolas",
+	// "font_size": 12,
 
     // Set to false to hide the gutter altogether
 	"gutter": false,
@@ -31,7 +33,8 @@
 	"highlight_line": false,
 
     // Set to true to turn spell checking on by default
-	"spell_check": true,
+    // @metalelf0: commenting this, I hate spell check
+	//"spell_check": true,
 
     // Additional spacing at the bottom of each line, in pixels
 	"line_padding_bottom": 2,

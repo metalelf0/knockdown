@@ -1,6 +1,10 @@
 # [Knockdown](https://github.com/aziz/knockdown)
 Github flavored Markdown for SublimeText and a custom color-scheme for writing markdown.
 
+### My fork:
+
+* trying to make it look more like the ["Tubnil" colorscheme](https://github.com/nilium/st2-nil-theme)
+
 ### Features:
 * Support for fenced code blocks
 * Syntax highlighting support for most popular languages (see below for the list of supported languages)
